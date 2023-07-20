@@ -1,0 +1,4 @@
+/*Smooth tranisition while scrolling */
+html {
+	scroll-behavior: smooth;
+}
